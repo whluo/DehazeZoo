@@ -1,5 +1,5 @@
 # DehazeZoo (Single Image vs. Video Based)
-By [Xiang Chen](https://cxtalk.github.io/), [Jinshan Pan](https://jspan.github.io/), Yufeng Li, Yufeng Huang
+By [Xiang Chen](https://cxtalk.github.io/)
 
 ## 1 Description
    * DehazeZoo: A survey on haze removal from video and single image. Papers, codes and datasets are maintained.
