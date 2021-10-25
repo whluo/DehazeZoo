@@ -35,6 +35,7 @@ Updated by [Xiang Chen](https://cxtalk.github.io/).
 ### 3.2 Papers
 --------------
 ### 2021
+* Li et al, DehazeFlow：Multi-scale Conditional Flow Network for Single Image Dehazing. (ACMMM) [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475432?casa_token=cMfqEJPnRlEAAAAA:ZRKciLZRcFAhUQU6qdqt9N_87QOf5IfF70vjxR4aEOHoZnO7a6Vx78sNZgbAhIKsuQEpOvYgBAlq-Q)][code]
 * Chang et al, DAMix: Density-Aware Data Augmentation for Unsupervised Domain Adaptation on Single Image Dehazing. [[paper](https://arxiv.org/abs/2109.12544)][code]
 * Zhao et al, Hybrid Local-Global Transformer for Image Dehazing. [[paper](https://arxiv.org/abs/2109.07100)][code]
 * Liu et al, From Synthetic to Real: Image Dehazing Collaborating with Unlabeled Real Data. (ACMMM) [[paper](https://arxiv.org/pdf/2108.02934.pdf)][[code](https://github.com/liuye123321/DMT-Net)]
