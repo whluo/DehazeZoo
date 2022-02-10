@@ -35,6 +35,8 @@ Updated by [Xiang Chen](https://cxtalk.github.io/).
 ### 3.2 Papers
 --------------
 ### 2021
+* Zhang et al, Single Image Dehazing via Dual-Path Recurrent Network. (TIP) [[paper](https://ieeexplore.ieee.org/document/9435998)][code]
+* Zhang et al, Multi-level Fusion and Attention-guided CNN for Image Dehazing. (TCSVT) [[paper](https://whluo.github.io/papers/image_dehazing_csvt19.pdf)][code]
 * Li et al, DehazeFlow：Multi-scale Conditional Flow Network for Single Image Dehazing. (ACMMM) [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475432?casa_token=cMfqEJPnRlEAAAAA:ZRKciLZRcFAhUQU6qdqt9N_87QOf5IfF70vjxR4aEOHoZnO7a6Vx78sNZgbAhIKsuQEpOvYgBAlq-Q)][code]
 * Chang et al, DAMix: Density-Aware Data Augmentation for Unsupervised Domain Adaptation on Single Image Dehazing. [[paper](https://arxiv.org/abs/2109.12544)][code]
 * Zhao et al, Hybrid Local-Global Transformer for Image Dehazing. [[paper](https://arxiv.org/abs/2109.07100)][code]
